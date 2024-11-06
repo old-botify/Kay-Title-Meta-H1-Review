@@ -35,6 +35,6 @@ ENV/
 .settings/
 
 # Project-specific
-*.csv
+kay-h1.csv
 *.txt
 !requirements.txt
